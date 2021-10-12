@@ -2,3 +2,5 @@ data/db/
 
 # vscode
 .vscode/
+
+__pycache__/
